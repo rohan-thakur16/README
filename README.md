@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently working on Flutter Project</p>
+<p align="left">✨ Creating and fixing bugs since 2017<br>📚 I'm currently working on Flutter Project</p>
 
 ###
 
